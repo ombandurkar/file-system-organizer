@@ -4,9 +4,18 @@
 
 * The file system organizer is a ***NodeJS based project*** which helps you to organize your messy folders by automating the task of segregating the files.
 
+* I have also used **npm** to customize the command to my initials which is `omb` :)
+
 * It categorizes your files in 4 types, which are *media, archieves, document and app (application)*. 
 
+* The codebase contains three seperate files for three different functionalities
+  
+  * `tree.js`
+  * `organize.js`
+  * `help.js`
+
 * Folders like "downloads" on our pc/laptop are often filled with various types of files, because we just download and use them. Instead of moving them manually to different folders like "media" , "document", technology can be leveraged to automate the sorting of files by extension and placement in designated folders according to their type.
+
 
 ## How to use it?
   
@@ -21,6 +30,8 @@
 
 * An "others" folder would also be created for the extensions which are different from these categories. The project can be readily scaled to meet changing demands. The code can be expanded to include a new extension or create a folder for a similar extension, enabling the system to manage additional file types.
 
-  * To do so, just head over to `main.js` and check for object `fileTypes`. Do contribute :)
+  * To do so, just head over to `main.js` and check for object `fileTypes`.
+  
+  ***Do contribute ;)***
   
 Lastly, thank you pepcoding :)
