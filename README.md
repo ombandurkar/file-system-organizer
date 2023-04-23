@@ -8,7 +8,7 @@
 
 * It categorizes your files in 4 types, which are *media, archieves, document and app (application)*. 
 
-* The codebase contains three seperate files for three different functionalities
+* The codebase contains three seperate files for three different functionalities in **command folder**
   
   * `tree.js`
   * `organize.js`
@@ -20,11 +20,12 @@
 ## How to use it?
   
 1. Install nodeJS on your pc/laptop, if it's not there.
-2. Simply clone the repo on your machine and hit the terminal/command prompt.
-3. Choose the desired directory where ever you want to try this out.
-4. Enter the command `omb help` to check out the complete list of available commands and their usage details.
-5. Follow the `help` guide to execute the project.
-6. If a required file path is not given, the system automatically works by considering the current directory.
+2. Simply clone the repo on your machine and open the command prompt for the cloned folder.
+3. Write the command `npm link` on the terminal.
+4. Choose the desired directory where ever you want to execute the project (or else point number 7).
+5. Enter the command `omb help` to check out the complete list of available commands and their usage details.
+6. Follow the `help` guide to execute the project.
+7. If a required file path is not given, the system automatically works by considering the current directory.
 
 ## Scaling it up
 
