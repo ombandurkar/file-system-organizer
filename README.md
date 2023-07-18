@@ -27,6 +27,13 @@
 6. Follow the `help` guide to execute the project.
 7. If a required file path is not given, the system automatically works by considering the current directory.
 
+## Video link
+For visual aid, I am including a project video to help illustrate the functionality of the project -
+
+Locally, in the VSCode - https://drive.google.com/file/d/1UtqJiLv0xiYwrlHKcIl28saYH3yF5DgW/view?usp=sharing
+
+Globally, on anyone's system's command promt - https://drive.google.com/file/d/1ocXmjdWlFb71iRq41wNErne03z7v7TrI/view?usp=sharing
+
 ## Scaling it up
 
 * An "others" folder would also be created for the extensions which are different from these categories. The project can be readily scaled to meet changing demands. The code can be expanded to include a new extension or create a folder for a similar extension, enabling the system to manage additional file types.
